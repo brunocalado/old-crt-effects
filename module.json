@@ -1,0 +1,37 @@
+{
+  "name": "old-crt-effects",
+  "title": "Old CRT Effects",
+  "description": "Old CRT Effects",
+  "author": "",
+  "authors": [],
+  "url": "",
+  "readme": "",
+  "changelog": "",
+  "flags": {},
+  "version": "1.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": [
+    "./oce.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "oce.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
