@@ -25,6 +25,7 @@ You also need to share with me the default name convention for your language. Th
     "path": "lang/fr.json"
 }  
 ```
+
 # LICENSE
 [LICENSE](https://github.com/brunocalado/old-crt-effects/blob/main/LICENSE)
 
