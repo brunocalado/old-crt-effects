@@ -8,12 +8,9 @@
     "url": "https://youtube.com/mestredigital"
   }],
 
-  "readme": "",
-  "changelog": "",
-
   "flags": {},
   
-  "version": "1.5",
+  "version": "1.6",
   
   "compatibility": {
     "minimum": 10,
@@ -39,7 +36,6 @@
   
   "packs": [],
 
-  "dependencies": [],
   "socket": false,
   
   "url": "https://github.com/brunocalado/old-crt-effects",
