@@ -13,7 +13,7 @@
 
   "flags": {},
   
-  "version": "1.4",
+  "version": "1.5",
   
   "compatibility": {
     "minimum": 10,
@@ -38,7 +38,7 @@
   ],
   
   "packs": [],
-  "system": [],
+
   "dependencies": [],
   "socket": false,
   
