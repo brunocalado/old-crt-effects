@@ -2,7 +2,6 @@
 This module adds to the screen visual effects of a old monitor.
 
 # Instalation
-
 You can install using the manifest: https://raw.githubusercontent.com/brunocalado/old-crt-effects/main/module.json
 
 ## Localization
@@ -31,4 +30,5 @@ You also need to share with me the default name convention for your language. Th
 
 This is a fork from https://github.com/prolice/swffgUI-cc
 
-
+# Mestre Digital
+About this module creator: https://sites.google.com/view/mestredigitalmodules
