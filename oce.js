@@ -7,9 +7,7 @@ Hooks.once('ready', function() {
     type: Boolean,
     default: false,
     config: true,
-    onChange: () => {
-      location.reload();
-    },
+    requiresReload: true
   });
   
   game.settings.register('old-crt-effects', 'screenDoor', {
@@ -19,9 +17,7 @@ Hooks.once('ready', function() {
     type: Boolean,
     default: false,
     config: true,
-    onChange: () => {
-      location.reload();
-    },
+    requiresReload: true
   });  
   
   game.settings.register('old-crt-effects', 'scanline', {
@@ -31,9 +27,7 @@ Hooks.once('ready', function() {
     type: Boolean,
     default: true,
     config: true,
-    onChange: () => {
-      location.reload();
-    },
+    requiresReload: true
   });
   
 });

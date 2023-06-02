@@ -1,6 +1,16 @@
 # Old CRT Effects
 This module adds to the screen visual effects of a old monitor.
 
+## Effects Off
+<p align="center">
+  <img width="800" src="docs/docs-off.webp">
+</p>
+
+## Effects On
+<p align="center">
+  <img width="800" src="docs/docs-on.webp">
+</p>
+
 # Instalation
 You can install using the manifest: https://raw.githubusercontent.com/brunocalado/old-crt-effects/main/module.json
 
