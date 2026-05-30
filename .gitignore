@@ -1,3 +1,8 @@
-old-crt-effects.lock
-WORKSPACE
+.gitattributes
 .gitignore
+WORKSPACE
+CLAUDE.md
+daggerheart-distances.code-workspace
+problema.jpg
+.claude
+.claudeignore

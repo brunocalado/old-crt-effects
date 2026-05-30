@@ -3,41 +3,30 @@
   "title": "Old CRT Effects",
   "description": "This module adds to the screen visual effects of a old monitor.",
   
-  "authors": [{
-    "name": "Mestre Digital",
-    "url": "https://youtube.com/mestredigital"
-  }],
+  "authors": [
+    {
+      "name": "Mestre Digital",
+      "url": "http://youtube.com/@mestredigital",
+      "flags": {}
+    }
+  ],
 
   "flags": {},
   
-  "version": "2.0",
+  "version": "3.0",
   
   "compatibility": {
-    "minimum": 10,
-    "verified": "13"
+    "minimum": 14,
+    "verified": "14"
   },
   
-  "scripts": [
-    "./oce.js"
+  "esmodules": [
+    "scripts/main.js"
   ],
-  
-  "esmodules": [],
   "styles": [
-    "oce.css"
+    "styles/base.css"
   ],
-  
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
-  
-  "packs": [],
 
-  "socket": false,
-  
   "url": "https://github.com/brunocalado/old-crt-effects",
   "manifest": "https://raw.githubusercontent.com/brunocalado/old-crt-effects/main/module.json",
   "download": "https://codeload.github.com/brunocalado/old-crt-effects/zip/main"
